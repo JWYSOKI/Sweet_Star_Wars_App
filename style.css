@@ -1,0 +1,25 @@
+body {
+	background: black;
+	color: #ebd800;
+	text-align: center;
+	background: url("https://media1.tenor.com/images/022b510a006d9d793dbd66677967a26a/tenor.gif?itemid=5167805");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p {
+	font-size: 2em;
+	font-family: DIN, Helvetica, Arial, sans-serif; 
+}
+
+h1 {
+	font-size: 4em;
+	text-decoration-line: underline;
+}
+main {
+	background: rgba(0,0,0,.3);
+	height: 100vh;
+	padding-top: 150px;
+	
+
+}
